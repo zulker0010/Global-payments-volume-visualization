@@ -1,0 +1,8 @@
+{
+  "name": "Meridian PayAtlas",
+  "description": "Interactive WebGL 3D global visualization of digital payment ecosystems across Mobile Wallets, MFS, Card Payments, and NFC & Contactless with time-of-day transitions and multi-level geographic drill-down.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
